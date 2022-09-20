@@ -14,3 +14,4 @@ jupyterlite-xeus-python
 jupyterlab-slide-mode-keyboard-shortcuts
 jupyterlab-myst
 nbformat
+pkginfo
